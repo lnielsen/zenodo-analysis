@@ -1,0 +1,9 @@
+github3.py
+jupyter
+matplotlib
+matplotlib-venn
+numpy
+pandas
+scipy
+scikit-image
+scikit-learn
